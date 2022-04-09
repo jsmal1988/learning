@@ -1,2 +1,0 @@
-przyk³ad w którym nie mamy zaimplementowanego bridga, ka¿de kolejne stworzenie np greenCircle bêdzie trzeba implementowaæ metode applyColor 
-Gdybyœmy dodali inny kszta³t, np trójk¹t dodatkowo musielibyœmy stworzyæ warianty wszystkich kolorów. Im wiêcej nowych kolorów i kszta³tów tym wiêcej musielibyœmy tworzyæ klas.
