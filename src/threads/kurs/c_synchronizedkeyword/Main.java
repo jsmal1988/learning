@@ -3,7 +3,7 @@ package threads.kurs.c_synchronizedkeyword;
 public class Main {
 	
 	private int count = 0;
-	//2 adding synchronized make this method available for one method. Synchrionized add wewnetrzy lock on this method. 
+	//2 adding synchronized make this method available for one method. Synchrionized add wewnetrzy lock on this object (Main). 
 	//If second thread will want to enter this method, it has to wait till lock will be release by first thread.
 	public synchronized void increment() {
 		count++;
