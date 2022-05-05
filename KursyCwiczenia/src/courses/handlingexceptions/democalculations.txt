@@ -1,0 +1,5 @@
+add 4 four
+subtract eight two extra
+multiply seven 6
+divide 1 1
+divide 100 10
