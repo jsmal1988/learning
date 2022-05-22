@@ -1,0 +1,1 @@
+https://stackabuse.com/java-8-streams-guide-to-parallel-streaming-with-parallel/

@@ -1,0 +1,1 @@
+tutaj chodzi o referencje do obiektów, co jak oba wskazuj¹ na t¹ sam¹, porównywanie ich itd.
